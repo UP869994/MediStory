@@ -1,5 +1,4 @@
-# MediStory
-A Medical History app
+# MediStory: The Medical History app
 
 A Medical History app to streamline history taking in medical settings and allow for multilingual translation. 
 
